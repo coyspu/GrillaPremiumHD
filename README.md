@@ -1,1 +1,1 @@
-https://federealoded.github.io/GrillaPremiumHD/
+https://coyspu.github.io/GrillaPremiumHD
