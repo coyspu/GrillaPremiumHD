@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'Acephimere'; /* Nombre que le das a la fuente */
-  src: url('../fonts/Acephimere.otf') format('opentype'); /* Ruta a la fuente */
+  src: url('fonts/Acephimere.otf') format('opentype'); /* Ruta a la fuente */
 }
 
 
