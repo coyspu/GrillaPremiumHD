@@ -85,6 +85,7 @@
     { "number": "282", "name": "UNIVERSAL CINEMA", "logo": "logos/universal-cinema-ar.png" },
     { "number": "283", "name": "Adult Swim HD", "logo": "logos/adult-swim-ar.png" },
     { "number": "284", "name": "COMEDY CENTRAL", "logo": "logos/comedy-central-ar.png" },
+    { "number": "285", "name": "DHE HD", "logo": "logos/dhe-ar.png" },    
     { "number": "300", "name": "Zoomoo HD", "logo": "logos/zoomoo-ar.png" },
     { "number": "301", "name": "CARTOON NETWORK", "logo": "logos/cartoon-network-ar.png" },
     { "number": "302", "name": "CARTOONITO HD", "logo": "logos/cartoonito-ar.png" },
